@@ -1,4 +1,4 @@
-# Project 2 Pitch Guidelines
+# Project 2
 Project Description and Pitch Guidelines for SEIR SEA P2
 
 ---
